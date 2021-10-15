@@ -4,3 +4,7 @@ node_modules
 # Dapptools
 out/
 .env
+
+# env
+.envrc
+*.swp
